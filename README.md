@@ -1,2 +1,3 @@
-# JavaScript # JavaScript
 # JavaScript
+Leaning about javascript
+
