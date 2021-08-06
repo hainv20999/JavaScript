@@ -1,7 +1,5 @@
 const imgs = document.getElementById('imgs')
-
 const img = document.querySelectorAll('#imgs img')
-
 let idx = 0
 
 function run() {
